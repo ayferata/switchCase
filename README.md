@@ -1,6 +1,5 @@
 # switchCase
 package switch_case;
-
 import java.util.Scanner;
 
 public class switch_case_kodlama_io {
