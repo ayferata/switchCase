@@ -37,8 +37,7 @@ public class switch_case_kodlama_io {
                     System.out.println("ERROR!");
             }
 
-
-        }while(grade!='O');
+         }while(grade!='O');
 
         if(grade=='O'){
             System.out.println("===========================");
