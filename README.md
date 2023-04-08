@@ -38,8 +38,7 @@ public class switch_case_kodlama_io {
             }
 
          }while(grade!='O');
-
-        if(grade=='O'){
+          if(grade=='O'){
             System.out.println("===========================");
             System.out.println("The Program has been ended.");
         }
