@@ -43,8 +43,5 @@ public class switch_case_kodlama_io {
             System.out.println("The Program has been ended.");
         }
 
-
-
-
     }
 }
