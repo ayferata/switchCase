@@ -7,9 +7,7 @@ public class switch_case_kodlama_io {
     public static void main(String[] args) {
 
         char grade;
-
-
-        Scanner keyboard = new Scanner(System.in);
+    Scanner keyboard = new Scanner(System.in);
 
         do {
 
