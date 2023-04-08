@@ -41,7 +41,7 @@ public class switch_case_kodlama_io {
             }
 
 
-        }while(grade!='O');// ENTER 'O' TO STOP PROGRAM
+        }while(grade!='O');
 
         if(grade=='O'){
             System.out.println("===========================");
